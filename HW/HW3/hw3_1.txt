@@ -1,0 +1,17 @@
+NO 2
+캐시 메모리
+
+No 8_1
+Line 46: else { close(fd[WRITE_END);
+
+No 8_2
+000
+111
+222
+
+if sleep function in each thread means give it's cpu burst
+maybe cpu scheduling can changed but we don't know
+circumstance is single core or not So I think 000 111 222 is answer.
+No 9
+0
+
